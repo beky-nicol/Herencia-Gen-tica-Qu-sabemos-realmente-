@@ -1,0 +1,256 @@
+1
+00:00:01,140 --> 00:00:04,080
+Hola a todos,
+Bienvenidos y bienvenidas a
+
+2
+00:00:04,080 --> 00:00:06,990
+este breve pero fascinante
+viaje por el mundo de la
+
+3
+00:00:06,990 --> 00:00:07,680
+genética.
+
+4
+00:00:08,160 --> 00:00:11,280
+Hoy vamos a descubrir dos
+conceptos clave que nos hacen
+
+5
+00:00:11,280 --> 00:00:11,880
+únicos.
+
+6
+00:00:12,240 --> 00:00:14,610
+El genotipo y el fenotipo.
+
+7
+00:00:15,150 --> 00:00:16,860
+Comencemos con el genotipo.
+
+8
+00:00:17,580 --> 00:00:21,090
+El genotipo es como el libro
+de instrucciones genéticas
+
+9
+00:00:21,090 --> 00:00:23,490
+que todos llevamos dentro de
+nuestro cuerpo,
+
+10
+00:00:23,850 --> 00:00:26,160
+específicamente en el ADN.
+
+11
+00:00:26,520 --> 00:00:29,940
+Este conjunto de genes
+determina cómo podríamos ser
+
+12
+00:00:30,330 --> 00:00:32,070
+el color de nuestros ojos,
+
+13
+00:00:32,250 --> 00:00:36,030
+nuestra estatura o incluso
+nuestro grupo sanguíneo.
+
+14
+00:00:36,600 --> 00:00:39,720
+Aunque las personas de una
+misma especie compartimos la
+
+15
+00:00:39,720 --> 00:00:41,280
+mayoría de nuestros genes,
+
+16
+00:00:41,730 --> 00:00:45,030
+existen pequeñas variaciones
+llamadas alelos.
+
+17
+00:00:45,540 --> 00:00:49,230
+Estas variaciones hacen que
+cada ser humano sea único.
+
+18
+00:00:50,190 --> 00:00:53,520
+Este paquete genético lo
+heredamos de nuestros padres
+
+19
+00:00:53,850 --> 00:00:55,830
+y aunque no lo veamos a
+simple vista,
+
+20
+00:00:55,830 --> 00:00:58,230
+está en cada célula de
+nuestro cuerpo.
+
+21
+00:00:59,070 --> 00:01:01,140
+Información clave del genotipo
+
+22
+00:01:01,830 --> 00:01:04,410
+Dónde está
+en nuestro ADN?
+
+23
+00:01:04,800 --> 00:01:08,700
+No se puede ver a simple vista
+de qué está hecho
+
+24
+00:01:08,910 --> 00:01:13,470
+De alelos que pueden ser homo
+o hetero cigotos.
+
+25
+00:01:13,980 --> 00:01:14,910
+De dónde viene?
+
+26
+00:01:15,540 --> 00:01:17,940
+Se hereda de nuestros
+progenitores.
+
+27
+00:01:18,870 --> 00:01:20,460
+Ahora hablemos del fenotipo.
+
+28
+00:01:21,330 --> 00:01:25,040
+El fenotipo es la expresión
+visible o medible del genotipo.
+
+29
+00:01:25,430 --> 00:01:28,220
+Es decir,
+lo que sí podemos ver o notar
+
+30
+00:01:28,220 --> 00:01:30,740
+de una persona,
+por ejemplo,
+
+31
+00:01:31,040 --> 00:01:33,980
+el color de la piel,
+la forma del rostro
+
+32
+00:01:34,250 --> 00:01:36,590
+o incluso ciertos
+comportamientos.
+
+33
+00:01:36,980 --> 00:01:38,000
+Pero atención,
+
+34
+00:01:38,540 --> 00:01:40,970
+el fenotipo no depende sólo
+de los genes,
+
+35
+00:01:41,120 --> 00:01:42,410
+también del ambiente.
+
+36
+00:01:42,950 --> 00:01:43,820
+Por ejemplo,
+
+37
+00:01:44,030 --> 00:01:47,090
+dos gemelos con la misma
+información genética pueden
+
+38
+00:01:47,090 --> 00:01:51,380
+crecer diferentes si viven en
+lugares distintos.
+
+39
+00:01:51,980 --> 00:01:56,090
+Entonces el fenotipo es el
+resultado de cómo los genes
+
+40
+00:01:56,090 --> 00:01:57,650
+interactúan con el entorno.
+
+41
+00:01:58,550 --> 00:02:00,650
+Información clave del fenotipo
+
+42
+00:02:01,040 --> 00:02:04,670
+donde lo vemos en los rasgos
+físicos o medibles
+
+43
+00:02:05,270 --> 00:02:08,750
+de que está hecho,
+de la combinación del genotipo
+
+44
+00:02:08,960 --> 00:02:12,440
+y el ambiente
+que lo influye,
+
+45
+00:02:12,860 --> 00:02:14,960
+el entorno donde vive cada
+persona.
+
+46
+00:02:15,110 --> 00:02:16,670
+Por eso es variable.
+
+47
+00:02:18,470 --> 00:02:19,760
+Entonces recuerda,
+
+48
+00:02:20,150 --> 00:02:23,630
+el genotipo es tu información
+genética heredada.
+
+49
+00:02:24,350 --> 00:02:28,160
+Y el fenotipo es cómo esa
+información se expresa
+
+50
+00:02:28,160 --> 00:02:30,350
+dependiendo también del
+entorno.
+
+51
+00:02:31,100 --> 00:02:34,310
+Así se construye la
+diversidad que vemos todos
+
+52
+00:02:34,310 --> 00:02:36,290
+los días en el mundo que nos
+rodea.
+
+53
+00:02:37,430 --> 00:02:38,930
+Gracias por acompañarnos.
+
+54
+00:02:38,930 --> 00:02:42,140
+Si explorando el mundo de la
+ciencia y la genética.
+
+55
+00:02:42,440 --> 00:02:43,730
+Hasta la próxima.
+
