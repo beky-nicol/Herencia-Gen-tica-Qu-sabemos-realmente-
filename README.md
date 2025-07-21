@@ -1,1 +1,2 @@
-# Herencia-Gen-tica-Qu-sabemos-realmente-
+# Recursos Educativos: Herencia y Genética
+Este recurso interactivo está diseñado para enseñar los conceptos principales de la genética, como genotipo, fenotipo, alelos dominantes y recesivos, homocigotos y heterocigotos. Incluye contenidos teóricos claros y actividades prácticas visuales (como arrastrar y soltar, crucigramas y tablas), pensadas especialmente para facilitar el aprendizaje en estudiantes de educación básica, incluyendo adaptaciones para quienes presentan TDAH.
